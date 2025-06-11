@@ -1,0 +1,14 @@
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\bin\Debug\net8.0\BlackJackLight.exe
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\bin\Debug\net8.0\BlackJackLight.deps.json
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\bin\Debug\net8.0\BlackJackLight.runtimeconfig.json
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\bin\Debug\net8.0\BlackJackLight.dll
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\bin\Debug\net8.0\BlackJackLight.pdb
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.AssemblyInfoInputs.cache
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.AssemblyInfo.cs
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.csproj.CoreCompileInputs.cache
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.dll
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\refint\BlackJackLight.dll
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.pdb
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.genruntimeconfig.cache
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\ref\BlackJackLight.dll
