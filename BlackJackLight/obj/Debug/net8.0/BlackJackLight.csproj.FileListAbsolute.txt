@@ -12,3 +12,4 @@ C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\refi
 C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.pdb
 C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.genruntimeconfig.cache
 C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\ref\BlackJackLight.dll
+C:\Users\famas\RiderProjects\BlackJackLight\BlackJackLight\obj\Debug\net8.0\BlackJackLight.sourcelink.json
