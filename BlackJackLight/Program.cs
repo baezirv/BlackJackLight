@@ -62,6 +62,23 @@ namespace BlackJackLight
 			Console.WriteLine("1. Start Game");
 			Console.WriteLine("2. Continue Game");
 			Console.WriteLine("3. Exit Game");
+			Console.WriteLine(Environment.NewLine + "Please select an option (1-3): ");
+			int selectedMenuOption = int.Parse(Console.ReadLine());
+
+			switch (selectedMenuOption) {
+				case 1:
+					Console.WriteLine("Starting a new game...");
+					// Initialize the game state here
+					playerMoney = initialMoney; // Reset player money
+					break;
+				case 2:
+					Console.WriteLine("Loading saved game...");
+					break;
+				case 3:
+					Console.WriteLine("Bye! Bye!");
+					return;
+			}
+			Console.ReadKey();
 		}
 	}
 }
